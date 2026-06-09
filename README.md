@@ -1,19 +1,22 @@
 # Cloud ETL Pipeline
 
+## Project Overview
+Developed an end-to-end ETL pipeline to extract, transform, and load retail sales data into PostgreSQL for business analytics.
+
 ## Tech Stack
 - Python
 - Pandas
 - PostgreSQL
 - SQLAlchemy
-- AWS S3
-- Power BI
+- Git/GitHub
 
-## Workflow
-CSV → ETL → PostgreSQL → SQL Analytics → Dashboard
+## Architecture
+CSV → Extract → Transform → PostgreSQL → SQL Analytics
 
-## Features
-- Data extraction
-- Data transformation
-- PostgreSQL loading
-- SQL analytics queries
-- KPI generation
+## Key Metrics
+- Revenue Analysis
+- Profitability Analysis
+- Regional Performance
+- Delivery Time Analysis
+
+## Screenshots
