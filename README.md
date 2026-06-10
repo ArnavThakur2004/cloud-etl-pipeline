@@ -20,3 +20,5 @@ CSV → Extract → Transform → PostgreSQL → SQL Analytics
 - Delivery Time Analysis
 
 ## Screenshots
+Average Delivery Days
+<img width="230" height="85" alt="avg_delivery_days" src="https://github.com/user-attachments/assets/aefd8497-8d16-4488-8031-e7e281ade09b" />
